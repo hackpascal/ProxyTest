@@ -1,0 +1,12 @@
+*.dll
+*.lib
+
+/.vs
+Debug
+Release
+x64
+*.db
+*.opendb
+*.aps
+*.suo
+*.sdb

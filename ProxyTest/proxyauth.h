@@ -1,0 +1,1 @@
+BOOL ProxyAuthenticate(const char *data);
